@@ -1,2 +1,2 @@
 # multi-media
-personal website
+index.html for group website
